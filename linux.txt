@@ -1,2 +1,3 @@
 linux
+<<<<<<< HEAD
 linux linux linux
